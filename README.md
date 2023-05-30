@@ -1,31 +1,49 @@
-# ***Simulation of Financial Processes***
-## ***Homework 4:*** <br>
+## MonteCarlo Exercises<br><br>
 
-## **Description:**
-This repository contains the fourth homework of the course Simulation of Financial Processes - *Fall 2021* in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) university. 
-<br>
-It contains 2 exercises using Monte Carlo Simulations with different probability density functions. 
-- The first exercise detetermines the chance of rolling a 7 a 14 or an 18 with loaded dices in a casino.
-- The second exercise simulates cafeteria sales given initial conditions, attention time and consumption by gender assuming conditions reamins constant and using an uniform distribution.
+#### **Repository Tools:**
+<font>
+<Details>
+<Summary> <b>Click to expand</b> </Summary>
 
-
-### **Objective:**
-The objective of the assignment for the team members is to prepare for the first exam.<br>
-*The instructions, source code for indiv. solutions and their output is contained in the main notebook:* [Homework-4.ipynb](https://github.com/EstebanMqz/FPS-Hw4_MD-Py_Ex/blob/main/Homework-4.ipynb)
-
-### **Contributors:** 
-![GitHub Logo](https://github.com/EstebanMqz.png?size=30) &nbsp; [EstebanMqz](https://github.com/EstebanMqz) &nbsp; ![GitHub Logo](https://github.com/IvanArellanoRuelas.png?size=27)[Iván-Arellano](https://github.com/IvanArellanoRuelas)
-
----
-### **Tools:**
-
-##### Distribution:&nbsp;![Anaconda-Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)<br> 
-##### Main Text-Editor:&nbsp;![Jupyter-Badge](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square&logo=Jupyter&logoColor=white)
-##### Language:&nbsp;![Python-Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)&nbsp;![Markdown-Badge](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=Markdown&logoColor=white)<br>
-##### Libraries:&nbsp;![Scipy-Badge](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)&nbsp;![Numpy-Badge](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)&nbsp;![Pandas-Badge](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)<br>
-##### Version Control:&nbsp;![GitHub-Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)![Git-Badge](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white) <br> [Git-Commands](https://github.com/EstebanMqz/Git-Commands)<br><br>
-
+##### Actions:  [![Repo-Visualization-Badge](https://img.shields.io/badge/Action-Visualization-020521?style=square&logo=github&logoColor=white)](https://githubnext.com/projects/repo-visualization)
+##### Main Text-Editor:  [![VSCode-Badge](https://img.shields.io/badge/VSCode-007ACC?style=square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;[![Jupyter-Badge](https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white)](https://jupyter.org/try)
+##### Language:  [![Python-Badge](https://img.shields.io/badge/Python-2b6dd6.svg?style=square&logo=Python&logoColor=green)](https://www.python.org)[![LaTeX-Badge](https://img.shields.io/badge/LaTeX-white.svg?style=square&logo=LaTeX&logoColor=008080)](https://www.latex-project.org)[![Markdown-Badge](https://img.shields.io/badge/Markdown-000000.svg?style=square&logo=Markdown&logoColor=white)](https://www.markdownguide.org)[![yaml-Badge](https://img.shields.io/badge/YAML-000000?style=square&logo=yaml&logoColor=red)](https://yaml.org)
+##### Libraries:  [![Numpy-Badge](https://img.shields.io/badge/Numpy-013243?style=square&logo=numpy&logoColor=white)](https://numpy.org)[![Pandas-Badge](https://img.shields.io/badge/Pandas-150458?style=square&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![Scipy-Badge](https://img.shields.io/badge/Scipy-darkblue?style=square&logo=scipy&logoColor=white)](https://www.scipy.org)
+##### Interface:  [![React-Badge](https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black)](https://create-react-app.dev)
+##### Version Control:  [![GitHub-Badge](https://img.shields.io/badge/GitHub-100000?style=square&logo=github&logoColor=white)](https://github.com)  [![Git-Badge](https://img.shields.io/badge/Git-F05032.svg?style=square&logo=Git&logoColor=white)](https://git-scm.com)
+[![Git-Commads](https://img.shields.io/badge/Git%20Commands-gray?style=square&logo=git&logoColor=white)](https://github.com/EstebanMqz/Git-Commands)
 ##### License:&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
----
-### **References:** 
-[Scipy](https://github.com/scipy/scipy)
+</Details>
+
+#### **Work Contact:**
+<font>
+<Details>
+<Summary> <b>Click to expand</b> </Summary>
+
+[![Website](https://img.shields.io/badge/Website-ffffff?style=square&logo=opera&logoColor=red)](https://estebanmqz.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-041a80?style=square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-m65381722210212839/) [![Portfolio](https://img.shields.io/badge/Github-Portfolio-010b38?style=square&logo=github&logoColor=black)](https://estebanmqz.github.io/Portfolio/) [![E-mail](https://img.shields.io/badge/Business-Mail-052ce6?style=square&logo=mail&logoColor=white)](mailto:esteban@esteban.com)
+
+![GitHub Logo](https://github.com/EstebanMqz.png?size=30) [![Github](https://img.shields.io/badge/Github-000000?style=square&logo=github&logoColor=white)](https://github.com/EstebanMqz) 
+
+#### Team Members:
+![GitHub Logo](https://github.com/IvanArellanoRuelas.png?size=30) [![Github](https://img.shields.io/badge/Github-000000?style=square&logo=github&logoColor=white)](https://github.com/IvanArellanoRuelas)
+</Details>
+
+##### **Diagram:**
+[![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FMonteCarlo-Simple-Ex)
+
+<img src="diagram.svg" width="280" height="280">
+
+### **Objective**:
+In this repository the following exercises are solved using Monte Carlo Simulations:
+- 1° ~ The chance of winning at a game in a Casino involving 3 dices where the last 2 are loaded.<br>
+Equiprobable events for $d_{1}$ and a Binomial distribution for $d_{(2,3)}$ (given parameters):<br>
+$d_1 \sim U(a,b)$, $d_{(2,3)} \sim B(n,p)$.<br><br>
+- 2° ~ Cafeteria sales for $T=7h$ per day from $d_{1,2...5}$.<br>
+Insights of the clients and their behavior based on $N =10000$ simulations with given data:<br>
+$Wait_{time_{w,m}} = (5s-30s, 5s-30s)$:<br>
+$Attention_{time_{w,m}} = (60s-300s, 40s-120s)$,<br>
+$Buy_{min, max_{w,m}}= (30-100, 20-80)$,<br>
+$x~\sim~U(0,1)$ is assumed.<br>
+
+##### **References:**
+[`numpy.random.uniform`](https://numpy.org/doc/stable/reference/random/index.html)
